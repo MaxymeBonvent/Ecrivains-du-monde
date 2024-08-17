@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+header{
+    border: 2px solid black;
+
+}
+
+h1, h2, h3{
+    text-align: center; 
+}
